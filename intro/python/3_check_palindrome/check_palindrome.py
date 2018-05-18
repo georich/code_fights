@@ -6,7 +6,3 @@ def check_palindrome(input: str) -> bool:
     if input == input[::-1]:
         return True
     return False
-
-
-word = "aabaa"
-print(f"Is {word} a palindrome? {check_palindrome(word)}")
