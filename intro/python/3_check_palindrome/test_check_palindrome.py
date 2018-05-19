@@ -1,5 +1,4 @@
 """Test file for python checkPalindrome."""
-import pytest
 from check_palindrome import check_palindrome
 
 

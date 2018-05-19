@@ -1,5 +1,4 @@
 """Test file for python add."""
-import pytest
 from add import add
 
 

@@ -1,5 +1,4 @@
 """Test file for python centuryFromYear."""
-import pytest
 from century_from_year import century_from_year
 
 
