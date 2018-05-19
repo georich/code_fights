@@ -6,8 +6,8 @@ As I am trying to "master" Python and both learn Rust, this is a good exercise e
 
 ## Sections
 
- - [ ] Intro, **Currently Working On**
- - [ ] Databases
- - [ ] The Core
- - [ ] Python
- - [ ] Graphs
+- [ ] Intro, **Currently Working On**
+- [ ] Databases
+- [ ] The Core
+- [ ] Python
+- [ ] Graphs
